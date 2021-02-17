@@ -19,7 +19,7 @@ https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
 https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL549DkdYRrqEELTxGuBtRVydo)/dm/3/x7kx5i7/s/live-3.m3u8
  
 #EXTINF:-1 tvg-chno="7" tvg-id="nation" group-title="ดิจิตอลทีวี 2021-02-05T14:27" tvg-logo="https://iptvthai.my.to/logo/sd-nation.png?rev=8",Nation TV HD
-https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSZ29uGnr4X6ys1N2BtsZo_k)/dm/3/x6eoldf/d/live-3.m3u8
+https://www.adintrend.tv/hd/m/ch37
  
 #EXTINF:-1 tvg-chno="8" tvg-id="workpoint" group-title="ดิจิตอลทีวี 2021-02-05T14:27" tvg-logo="https://iptvthai.my.to/logo/hd-workpoint.png?rev=8",Workpoint TV HD
 https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4rf66f
@@ -28,7 +28,7 @@ https://embed-dev.blackboxsys.net/player.php?channel=hd-workpoint&api_key=hmcb4r
 https://cdn6.goprimetime.info/feed/chtrue4u//index.m3u8
  
 #EXTINF:-1 tvg-chno="10" tvg-id="gmm25" group-title="ดิจิตอลทีวี 2021-02-05T14:27" tvg-logo="https://iptvthai.my.to/logo/sd-gmm.png?rev=8",GMM25 HD
-https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_S1kWFDsaKiSwJ9BhwzbXsk)/dm/3/x6rz4t7/s/live-3.m3u8
+https://www.adintrend.tv/hd/m/ch0
  
 #EXTINF:-1 tvg-chno="11" tvg-id="ch8" group-title="ดิจิตอลทีวี 2021-02-05T14:27" tvg-logo="https://iptvthai.my.to/logo/hd-ch8.png?rev=8",CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -978,3 +978,5 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+
+
