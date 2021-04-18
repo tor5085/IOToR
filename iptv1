@@ -906,8 +906,8 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checked
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
 https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
-http://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584417808_logo-gem.jpg",JP-NTV GEM
+https://mediasv.online/tvchannel_x2/gem/chunks.m3u8
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
