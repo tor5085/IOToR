@@ -917,13 +917,13 @@ http://live.streamingfast.net/osmflivech6.m3u8
 http://live.streamingfast.net/osmflivech7.m3u8
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://www.nettvpro.live/uploads/20/1-200GGP3023W.jpg",JP-NTV NHK Eテレ JPN
-https://www.nettv.live/Asia/japan/1659.html.m3u8
+https://www.nettv.live/Asia/japan/1659.html
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",JP-NTV Waku Waku Japan
-https://we-play.tv/watching/tv/waku-waku-japan.m3u8
+https://we-play.tv/watching/tv/waku-waku-japan
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",JP-CGNTV JP-KR
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://www.nct9.co.jp/wordpress/wp-content/themes/nct/img/service/tv/ch/img_ch_n03.png",JP-CGNTV NIPON JP
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
 https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
@@ -931,10 +931,10 @@ https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584417808_logo-gem.jpg",JP-NTV GEM
 https://mediasv.online/tvchannel_x2/gem/chunks.m3u8
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z2201J1390-L.jpg",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
  
 #EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_JP-KR_Pro_Wrestling_Logo_2.svg/480px-New_JP-KR_Pro_Wrestling_Logo_2.svg.png",NJPW World(การ์ตูน)
