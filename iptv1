@@ -888,17 +888,17 @@ http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV2
 http://live.streamingfast.net/osmflivech2.m3u8
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV6
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",JP-NTV TV6
 http://live.streamingfast.net/osmflivech6.m3u8
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV7
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",JP-NTV TV7
 http://live.streamingfast.net/osmflivech7.m3u8
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV8
-http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://www.nettvpro.live/uploads/20/1-200GGP3023W.jpg",JP-NTV NHK Eテレ JPN
+https://www.nettv.live/Asia/japan/1659.html.m3u8
  
-#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV10
-http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",JP-NTV Waku Waku Japan
+https://we-play.tv/watching/tv/waku-waku-japan.m3u8
  
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",JP-CGNTV JP-KR
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:hlscat.com
